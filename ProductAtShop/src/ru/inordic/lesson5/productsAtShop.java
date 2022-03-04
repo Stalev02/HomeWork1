@@ -7,6 +7,9 @@ public class productsAtShop {
         Product potato = new Product();
         potato.setCost(34);
         System.out.println(potato.cost);
+        System.out.println("Hello world");
+
+
 
 
     }
